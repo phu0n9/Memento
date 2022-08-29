@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E3CEE5E28BCDBE1003E9736 /* MementoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3CEE5D28BCDBE1003E9736 /* MementoApp.swift */; };
 		4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2A28BC010700924CB0 /* Assets.xcassets */; };
 		4E877F2E28BC010700924CB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */; };
 		4E877F3628BC012800924CB0 /* PopupView in Frameworks */ = {isa = PBXBuildFile; productRef = 4E877F3528BC012800924CB0 /* PopupView */; };
 		4E877F3928BC019600924CB0 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 4E877F3828BC019600924CB0 /* FirebaseFirestore */; };
-		4E877F3B28BC01C300924CB0 /* MementoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E877F3A28BC01C300924CB0 /* MementoApp.swift */; };
 		4E877F3F28BC01EC00924CB0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F3E28BC01EB00924CB0 /* GoogleService-Info.plist */; };
 		4E877F5728BC029200924CB0 /* UserSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E877F5328BC029200924CB0 /* UserSettings.swift */; };
 		4E877F5828BC029200924CB0 /* GameControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E877F5428BC029200924CB0 /* GameControl.swift */; };
@@ -54,10 +54,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E3CEE5D28BCDBE1003E9736 /* MementoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MementoApp.swift; sourceTree = "<group>"; };
 		4E877F2328BC010600924CB0 /* Memento.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memento.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E877F2A28BC010700924CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		4E877F3A28BC01C300924CB0 /* MementoApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MementoApp.swift; path = ../../ios/Memento/Memento/MementoApp.swift; sourceTree = "<group>"; };
 		4E877F3E28BC01EB00924CB0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		4E877F5328BC029200924CB0 /* UserSettings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserSettings.swift; sourceTree = "<group>"; };
 		4E877F5428BC029200924CB0 /* GameControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameControl.swift; sourceTree = "<group>"; };
@@ -140,8 +140,8 @@
 			isa = PBXGroup;
 			children = (
 				4E877FF828BC090500924CB0 /* Info.plist */,
-				4E877F3A28BC01C300924CB0 /* MementoApp.swift */,
 				4E877F2A28BC010700924CB0 /* Assets.xcassets */,
+				4E3CEE5D28BCDBE1003E9736 /* MementoApp.swift */,
 				4E877F2C28BC010700924CB0 /* Preview Content */,
 			);
 			path = Memento;
@@ -379,7 +379,7 @@
 				4E877F7D28BC02B600924CB0 /* MenuView.swift in Sources */,
 				4E877F5C28BC02A000924CB0 /* Players.swift in Sources */,
 				4E877F9728BC02C400924CB0 /* GameoverView.swift in Sources */,
-				4E877F3B28BC01C300924CB0 /* MementoApp.swift in Sources */,
+				4E3CEE5E28BCDBE1003E9736 /* MementoApp.swift in Sources */,
 				4E877F5928BC029200924CB0 /* PlayersControl.swift in Sources */,
 				4E877F8F28BC02C400924CB0 /* ItemView.swift in Sources */,
 				4E877F5828BC029200924CB0 /* GameControl.swift in Sources */,
