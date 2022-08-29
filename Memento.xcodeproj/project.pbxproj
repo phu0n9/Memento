@@ -20,6 +20,7 @@
 		4E8557B728BD1EE500A95268 /* continue-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AB28BD1EE500A95268 /* continue-light.png */; };
 		4E8557B828BD1EE500A95268 /* menu-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AC28BD1EE500A95268 /* menu-dark.png */; };
 		4E8557B928BD1EE500A95268 /* welcome-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AD28BD1EE500A95268 /* welcome-dark.png */; };
+		4E8557BB28BD206B00A95268 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557BA28BD206B00A95268 /* logo.png */; };
 		4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2A28BC010700924CB0 /* Assets.xcassets */; };
 		4E877F2E28BC010700924CB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */; };
 		4E877F3628BC012800924CB0 /* PopupView in Frameworks */ = {isa = PBXBuildFile; productRef = 4E877F3528BC012800924CB0 /* PopupView */; };
@@ -79,6 +80,7 @@
 		4E8557AB28BD1EE500A95268 /* continue-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "continue-light.png"; sourceTree = "<group>"; };
 		4E8557AC28BD1EE500A95268 /* menu-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-dark.png"; sourceTree = "<group>"; };
 		4E8557AD28BD1EE500A95268 /* welcome-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welcome-dark.png"; sourceTree = "<group>"; };
+		4E8557BA28BD206B00A95268 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
 		4E877F2328BC010600924CB0 /* Memento.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memento.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E877F2A28BC010700924CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				4E8557A628BD1EE500A95268 /* settings.png */,
 				4E8557AD28BD1EE500A95268 /* welcome-dark.png */,
 				4E8557A228BD1EE500A95268 /* welcome-light.png */,
+				4E8557BA28BD206B00A95268 /* logo.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -380,6 +383,7 @@
 				4E8557B128BD1EE500A95268 /* howtoplay.png in Resources */,
 				4E877F6B28BC02AB00924CB0 /* wrong.mp3 in Resources */,
 				4E8557B528BD1EE500A95268 /* game-dark.png in Resources */,
+				4E8557BB28BD206B00A95268 /* logo.png in Resources */,
 				4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */,
 				4E8557AF28BD1EE500A95268 /* pause-dark.png in Resources */,
 				4E8557AE28BD1EE500A95268 /* welcome-light.png in Resources */,

@@ -4,7 +4,7 @@
 
 Memento is a unique and engaging interactive sound matching memory puzzle game. Computer will play first and players try to repeat the tiles. Try to remember as much as possible. Each round will give you 5 points. Game has 3 level: easy, medium and hard with respective of 60, 30 and 15 seconds. This cool sound game will challenge and sharpen your listening and memory skills.
 
-## 👁️ 👄 👁️ Screenshot views:
+## 👁️ 👄 👁️ Screenshot:
 
 ## 💅 Features:
 
