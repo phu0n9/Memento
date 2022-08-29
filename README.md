@@ -97,11 +97,17 @@ Memento is a unique and engaging interactive sound matching memory puzzle game. 
 - [x] UIs works well on the iPhone light mode and dark mode (+5 points)
 
 ## Diagram Flow:
-- Menu View
-<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/menu%20view.png?raw=true" width="200">
 
-- Game View
-<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/game%20view.png?raw=true" width="200">
+<table>
+  <tr>
+    <td>Menu View</td>
+     <td>Game View</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/menu%20view.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/game%20view.png?raw=true" width="200"></td>
+  </tr>
+</table>
 
 ## 💥 Instalation:
 
