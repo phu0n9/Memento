@@ -21,6 +21,8 @@
 		4E8557B828BD1EE500A95268 /* menu-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AC28BD1EE500A95268 /* menu-dark.png */; };
 		4E8557B928BD1EE500A95268 /* welcome-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AD28BD1EE500A95268 /* welcome-dark.png */; };
 		4E8557BB28BD206B00A95268 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557BA28BD206B00A95268 /* logo.png */; };
+		4E8557BE28BD252300A95268 /* game view.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557BC28BD252300A95268 /* game view.png */; };
+		4E8557BF28BD252300A95268 /* menu view.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557BD28BD252300A95268 /* menu view.png */; };
 		4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2A28BC010700924CB0 /* Assets.xcassets */; };
 		4E877F2E28BC010700924CB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */; };
 		4E877F3628BC012800924CB0 /* PopupView in Frameworks */ = {isa = PBXBuildFile; productRef = 4E877F3528BC012800924CB0 /* PopupView */; };
@@ -81,6 +83,8 @@
 		4E8557AC28BD1EE500A95268 /* menu-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-dark.png"; sourceTree = "<group>"; };
 		4E8557AD28BD1EE500A95268 /* welcome-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welcome-dark.png"; sourceTree = "<group>"; };
 		4E8557BA28BD206B00A95268 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		4E8557BC28BD252300A95268 /* game view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "game view.png"; sourceTree = "<group>"; };
+		4E8557BD28BD252300A95268 /* menu view.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu view.png"; sourceTree = "<group>"; };
 		4E877F2328BC010600924CB0 /* Memento.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memento.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E877F2A28BC010700924CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -155,6 +159,8 @@
 				4E8557AD28BD1EE500A95268 /* welcome-dark.png */,
 				4E8557A228BD1EE500A95268 /* welcome-light.png */,
 				4E8557BA28BD206B00A95268 /* logo.png */,
+				4E8557BC28BD252300A95268 /* game view.png */,
+				4E8557BD28BD252300A95268 /* menu view.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -368,10 +374,12 @@
 				4E8557B928BD1EE500A95268 /* welcome-dark.png in Resources */,
 				4E877F6F28BC02AB00924CB0 /* losing.mp3 in Resources */,
 				4E877F7328BC02AB00924CB0 /* 4.wav in Resources */,
+				4E8557BE28BD252300A95268 /* game view.png in Resources */,
 				4E877F3F28BC01EC00924CB0 /* GoogleService-Info.plist in Resources */,
 				4E8557B428BD1EE500A95268 /* continue-dark.png in Resources */,
 				4E877F6D28BC02AB00924CB0 /* 1.wav in Resources */,
 				4E877F7428BC02AB00924CB0 /* click.mp3 in Resources */,
+				4E8557BF28BD252300A95268 /* menu view.png in Resources */,
 				4E877F6928BC02AB00924CB0 /* day.wav in Resources */,
 				4E877F7028BC02AB00924CB0 /* night.wav in Resources */,
 				4E8557B028BD1EE500A95268 /* leaderboard.png in Resources */,
