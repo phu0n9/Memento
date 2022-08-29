@@ -113,9 +113,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E8557A128BD1D9500A95268 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
 		4E877F1A28BC010600924CB0 = {
 			isa = PBXGroup;
 			children = (
+				4E8557A128BD1D9500A95268 /* Screenshots */,
 				4E877F3E28BC01EB00924CB0 /* GoogleService-Info.plist */,
 				4E877F4E28BC025C00924CB0 /* Constants */,
 				4E877F5028BC026A00924CB0 /* Sounds */,
