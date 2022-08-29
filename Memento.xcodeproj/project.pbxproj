@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		4E3CEE5E28BCDBE1003E9736 /* MementoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3CEE5D28BCDBE1003E9736 /* MementoApp.swift */; };
+		4E8557AE28BD1EE500A95268 /* welcome-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A228BD1EE500A95268 /* welcome-light.png */; };
+		4E8557AF28BD1EE500A95268 /* pause-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A328BD1EE500A95268 /* pause-dark.png */; };
+		4E8557B028BD1EE500A95268 /* leaderboard.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A428BD1EE500A95268 /* leaderboard.png */; };
+		4E8557B128BD1EE500A95268 /* howtoplay.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A528BD1EE500A95268 /* howtoplay.png */; };
+		4E8557B228BD1EE500A95268 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A628BD1EE500A95268 /* settings.png */; };
+		4E8557B328BD1EE500A95268 /* menu-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A728BD1EE500A95268 /* menu-light.png */; };
+		4E8557B428BD1EE500A95268 /* continue-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A828BD1EE500A95268 /* continue-dark.png */; };
+		4E8557B528BD1EE500A95268 /* game-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557A928BD1EE500A95268 /* game-dark.png */; };
+		4E8557B628BD1EE500A95268 /* game-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AA28BD1EE500A95268 /* game-light.png */; };
+		4E8557B728BD1EE500A95268 /* continue-light.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AB28BD1EE500A95268 /* continue-light.png */; };
+		4E8557B828BD1EE500A95268 /* menu-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AC28BD1EE500A95268 /* menu-dark.png */; };
+		4E8557B928BD1EE500A95268 /* welcome-dark.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E8557AD28BD1EE500A95268 /* welcome-dark.png */; };
 		4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2A28BC010700924CB0 /* Assets.xcassets */; };
 		4E877F2E28BC010700924CB0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */; };
 		4E877F3628BC012800924CB0 /* PopupView in Frameworks */ = {isa = PBXBuildFile; productRef = 4E877F3528BC012800924CB0 /* PopupView */; };
@@ -55,6 +67,18 @@
 
 /* Begin PBXFileReference section */
 		4E3CEE5D28BCDBE1003E9736 /* MementoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MementoApp.swift; sourceTree = "<group>"; };
+		4E8557A228BD1EE500A95268 /* welcome-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welcome-light.png"; sourceTree = "<group>"; };
+		4E8557A328BD1EE500A95268 /* pause-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "pause-dark.png"; sourceTree = "<group>"; };
+		4E8557A428BD1EE500A95268 /* leaderboard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = leaderboard.png; sourceTree = "<group>"; };
+		4E8557A528BD1EE500A95268 /* howtoplay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = howtoplay.png; sourceTree = "<group>"; };
+		4E8557A628BD1EE500A95268 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		4E8557A728BD1EE500A95268 /* menu-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-light.png"; sourceTree = "<group>"; };
+		4E8557A828BD1EE500A95268 /* continue-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "continue-dark.png"; sourceTree = "<group>"; };
+		4E8557A928BD1EE500A95268 /* game-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "game-dark.png"; sourceTree = "<group>"; };
+		4E8557AA28BD1EE500A95268 /* game-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "game-light.png"; sourceTree = "<group>"; };
+		4E8557AB28BD1EE500A95268 /* continue-light.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "continue-light.png"; sourceTree = "<group>"; };
+		4E8557AC28BD1EE500A95268 /* menu-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-dark.png"; sourceTree = "<group>"; };
+		4E8557AD28BD1EE500A95268 /* welcome-dark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "welcome-dark.png"; sourceTree = "<group>"; };
 		4E877F2328BC010600924CB0 /* Memento.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memento.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E877F2A28BC010700924CB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E877F2D28BC010700924CB0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -116,6 +140,18 @@
 		4E8557A128BD1D9500A95268 /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				4E8557A828BD1EE500A95268 /* continue-dark.png */,
+				4E8557AB28BD1EE500A95268 /* continue-light.png */,
+				4E8557A928BD1EE500A95268 /* game-dark.png */,
+				4E8557AA28BD1EE500A95268 /* game-light.png */,
+				4E8557A528BD1EE500A95268 /* howtoplay.png */,
+				4E8557A428BD1EE500A95268 /* leaderboard.png */,
+				4E8557AC28BD1EE500A95268 /* menu-dark.png */,
+				4E8557A728BD1EE500A95268 /* menu-light.png */,
+				4E8557A328BD1EE500A95268 /* pause-dark.png */,
+				4E8557A628BD1EE500A95268 /* settings.png */,
+				4E8557AD28BD1EE500A95268 /* welcome-dark.png */,
+				4E8557A228BD1EE500A95268 /* welcome-light.png */,
 			);
 			path = Screenshots;
 			sourceTree = "<group>";
@@ -318,23 +354,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E8557B628BD1EE500A95268 /* game-light.png in Resources */,
 				4E877F9F28BC030100924CB0 /* Roboto.ttf in Resources */,
 				4E877F6E28BC02AB00924CB0 /* 2.wav in Resources */,
 				4E877F9E28BC030100924CB0 /* Bluenesia.ttf in Resources */,
+				4E8557B828BD1EE500A95268 /* menu-dark.png in Resources */,
 				4E877F6C28BC02AB00924CB0 /* 3.wav in Resources */,
+				4E8557B728BD1EE500A95268 /* continue-light.png in Resources */,
+				4E8557B328BD1EE500A95268 /* menu-light.png in Resources */,
+				4E8557B928BD1EE500A95268 /* welcome-dark.png in Resources */,
 				4E877F6F28BC02AB00924CB0 /* losing.mp3 in Resources */,
 				4E877F7328BC02AB00924CB0 /* 4.wav in Resources */,
 				4E877F3F28BC01EC00924CB0 /* GoogleService-Info.plist in Resources */,
+				4E8557B428BD1EE500A95268 /* continue-dark.png in Resources */,
 				4E877F6D28BC02AB00924CB0 /* 1.wav in Resources */,
 				4E877F7428BC02AB00924CB0 /* click.mp3 in Resources */,
 				4E877F6928BC02AB00924CB0 /* day.wav in Resources */,
 				4E877F7028BC02AB00924CB0 /* night.wav in Resources */,
+				4E8557B028BD1EE500A95268 /* leaderboard.png in Resources */,
 				4E877F7128BC02AB00924CB0 /* start.wav in Resources */,
 				4E877F6A28BC02AB00924CB0 /* highScore.mp3 in Resources */,
+				4E8557B228BD1EE500A95268 /* settings.png in Resources */,
 				4E877F7228BC02AB00924CB0 /* correct.mp3 in Resources */,
 				4E877F2E28BC010700924CB0 /* Preview Assets.xcassets in Resources */,
+				4E8557B128BD1EE500A95268 /* howtoplay.png in Resources */,
 				4E877F6B28BC02AB00924CB0 /* wrong.mp3 in Resources */,
+				4E8557B528BD1EE500A95268 /* game-dark.png in Resources */,
 				4E877F2B28BC010700924CB0 /* Assets.xcassets in Resources */,
+				4E8557AF28BD1EE500A95268 /* pause-dark.png in Resources */,
+				4E8557AE28BD1EE500A95268 /* welcome-light.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
