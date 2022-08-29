@@ -1,5 +1,8 @@
 # Memento
-<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/logo.png?raw=true" width="100"> 
+
+<p align="center">
+  <img width="500" src="https://github.com/phu0n9/Memento/blob/master/Screenshots/logo.png?raw=true">
+</p>
 
 ## 📖 Description:
 
@@ -34,8 +37,8 @@ Memento is a unique and engaging interactive sound matching memory puzzle game. 
   <tr>
     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-light.png?raw=true" width="200"></td>
     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-dark.png?raw=true" width="200"></td>
-     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-light.png?raw=true" width="200"></td>
-    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-dark.png?raw=true" width="200"></td>
+     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/game-light.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/game-dark.png?raw=true" width="200"></td>
   </tr>
 </table>
 
