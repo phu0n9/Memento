@@ -58,7 +58,6 @@ Memento is a unique and engaging interactive sound matching memory puzzle game. 
   </tr>
 </table>
 
-
 ## 💅 Features:
 
 - [x] Menu view:
@@ -96,6 +95,13 @@ Memento is a unique and engaging interactive sound matching memory puzzle game. 
 - [x] The app also works on iPads and MacOS (+5 points) `Only For Ipads`
 
 - [x] UIs works well on the iPhone light mode and dark mode (+5 points)
+
+## Diagram Flow:
+- Menu View
+<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/menu%20view.png?raw=true" width="200">
+
+- Game View
+<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/game%20view.png?raw=true" width="200">
 
 ## 💥 Instalation:
 
