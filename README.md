@@ -1,10 +1,60 @@
 # Memento
+<img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/logo.png?raw=true" width="100"> 
 
 ## 📖 Description:
 
 Memento is a unique and engaging interactive sound matching memory puzzle game. Computer will play first and players try to repeat the tiles. Try to remember as much as possible. Each round will give you 5 points. Game has 3 level: easy, medium and hard with respective of 60, 30 and 15 seconds. This cool sound game will challenge and sharpen your listening and memory skills.
 
 ## 👁️ 👄 👁️ Screenshot:
+
+- Welcome View and Menu View
+<table>
+  <tr>
+    <td>Light Mode</td>
+     <td>Dark Mode</td>
+     <td>Light Mode</td>
+     <td>Dark Mode</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/welcome-light.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/welcome-dark.png?raw=true" width="200"></td>
+     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/menu-light.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/menu-dark.png?raw=true" width="200"></td>
+  </tr>
+</table>
+
+- Continue View and Game View
+<table>
+  <tr>
+    <td>Light Mode</td>
+     <td>Dark Mode</td>
+     <td>Light Mode</td>
+     <td>Dark Mode</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-light.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-dark.png?raw=true" width="200"></td>
+     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-light.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/continue-dark.png?raw=true" width="200"></td>
+  </tr>
+</table>
+
+- Setting, Leaderboard, How to play, Pause View
+<table>
+  <tr>
+    <td>Setting View</td>
+     <td>Leaderboard View</td>
+     <td>How to play View</td>
+     <td>Pause View</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/settings.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/leaderboard.png?raw=true" width="200"></td>
+     <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/howtoplay.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/phu0n9/Memento/blob/master/Screenshots/pause-dark.png?raw=true" width="200"></td>
+  </tr>
+</table>
+
 
 ## 💅 Features:
 
