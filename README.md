@@ -1,7 +1,7 @@
 # Memento
 
 <p align="center">
-  <img width="500" src="https://github.com/phu0n9/Memento/blob/master/Screenshots/logo.png?raw=true">
+  <img width="250" src="https://github.com/phu0n9/Memento/blob/master/Screenshots/logo.png?raw=true">
 </p>
 
 ## 📖 Description:
