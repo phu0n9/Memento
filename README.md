@@ -75,7 +75,7 @@ Memento is a unique and engaging interactive sound matching memory puzzle game. 
 - [x] How to play view:
       Show user rules/how to play this game.
 - [x] Background music for more than two views.
-      Effect sounds when users at least:
+- [x] Effect sounds when users at least:
   - Take action.
   - Winning with that action.
   - Losing with that action.
